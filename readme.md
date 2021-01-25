@@ -32,3 +32,18 @@
 ## 提交到本地仓库
 - git commit - m "提交注"
 - 我改一下试试
+
+## 查看日志
+- git log
+- git reflog
+
+## 版本回退
+- git reset --hard HEAD^ 回退到上一个版本
+- git reset --hard 版本号
+
+## 修改变动
+
+
+## 创建远程仓库
+- 进入github官网
+- 
